@@ -1,0 +1,17 @@
+
+{
+"name": "over123",
+"theme": "over123",
+"version": "2.5.6",
+"description": "over123 ทางเข้าเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"over123",
+"over123 เครดิตฟรี",
+"over123 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/over123",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
